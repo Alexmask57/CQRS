@@ -1,0 +1,7 @@
+/CQRS/bin/
+/CQRS/obj/
+.idea/
+.vscode/
+gen/
+.DS_Store
+/.vs
